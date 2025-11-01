@@ -3,7 +3,7 @@ Bundler.setup()
 
 namespace :xdr do
 
-  # As stellar-core adds more .x files, we'll need to update this array
+  # Aas stellar-core adds more .x files, we'll need to update this array
   # Prior to launch, we should be separating our .x files into a separate
   # repo, and should be able to improve this integration.
   HAYASHI_XDR = [
